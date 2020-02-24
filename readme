@@ -1,0 +1,7 @@
+Run cmd
+-- docker
+ 'docker ps'
+ 'docker ps -a'
+ 'docker start default_mongo_1'
+-- code
+ 'nvm spring-boot:run'
